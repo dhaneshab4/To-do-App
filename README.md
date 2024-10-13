@@ -30,11 +30,11 @@
 *  Gained hands-on experience writing Django views for handling CRUD operations (Create, Read, Update, Delete) for tasks. Leveraged Django's class-based views and function-based views to efficiently display, update, and delete tasks, improving the overall user experience.
 
 # Screenshots:
-![Screenshot (14)](https://github.com/user-attachments/assets/7fb5a051-60f8-4a4c-ae80-6e08d0128051)
-![Screenshot (13)](https://github.com/user-attachments/assets/67cbf1ae-b544-4e68-bd9b-7e13c0e61d5c)
-![Screenshot (12)](https://github.com/user-attachments/assets/e85bc7b6-9e24-4435-9c0d-f4676b90781e)
-![Screenshot (11)](https://github.com/user-attachments/assets/973b987d-9eb8-4361-a125-8b1dcd3b1ab4)
-![Screenshot (10)](https://github.com/user-attachments/assets/91ab2006-95f4-46cc-bd43-ae3adcddb9af)
-![Screenshot (9)](https://github.com/user-attachments/assets/82af3e23-6d85-442f-88fe-792a4957effb)
-![Screenshot (8)](https://github.com/user-attachments/assets/7467aaa4-a03b-427d-90af-540d958844f8)
-![Screenshot (7)](https://github.com/user-attachments/assets/0014bd31-2179-4092-973c-736e23f1f6c9)
+![Screenshot (7)](https://github.com/user-attachments/assets/09c27f3f-ab6f-4918-bba5-8201f4ac10e1)
+![Screenshot (8)](https://github.com/user-attachments/assets/8765b782-2a9b-401e-82d8-eaffe792e83c)
+![Screenshot (9)](https://github.com/user-attachments/assets/12bf2c4c-0024-49e7-ac94-d48af279634b)
+![Screenshot (10)](https://github.com/user-attachments/assets/4d47de22-88d5-48f9-84fa-08e5224369bf)
+![Screenshot (11)](https://github.com/user-attachments/assets/d48f48ab-f4a2-4dad-bb38-1637abf012dc)
+![Screenshot (12)](https://github.com/user-attachments/assets/c7f27730-82af-4745-860f-0e2834eb3cdc)
+![Screenshot (13)](https://github.com/user-attachments/assets/67d483a6-6a20-4505-b088-54d63cd0f984)
+![Screenshot (14)](https://github.com/user-attachments/assets/b75d65ac-f1f9-4985-9636-7d73ba319bff)
