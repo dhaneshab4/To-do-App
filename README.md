@@ -13,7 +13,7 @@
 * **Django** – Web framework for backend logic.
 * **HTML/CSS** – Structure and styling for the front-end.
 
-# Structuring Django Project with Apps:
+# Structuring Django Project 
 
 * Learned how to organize code into modular components by creating a dedicated app (base) for managing tasks. Each part of the app is separated into files like views.py, models.py, urls.py, etc., ensuring a clean architecture.
 
